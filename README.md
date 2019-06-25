@@ -1,4 +1,9 @@
-# GCPhonetoko
+# GCPhonetoko   
+
+# gcphone by Jonathan (Gannon) D => https://github.com/N3MTV/gcphone
+
+
+
 I do not own the GCPhone and do not take credit for the work.
 
 Install
